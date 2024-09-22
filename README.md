@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and C++
 - 💞️ I collaborate on korolia. It's a minecraft server : https://korolia.net/
 - 📫 How to reach me : on Discord : 100sp4rk100
-- ⚡ Fun fact: the fun fact is that I have no idea 😂😂😂
+- ⚡ Fun fact: the fun fact is that I have no idea for a fun fact😂😂😂
 
 <!---
 100Sp4rk100/100Sp4rk100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
