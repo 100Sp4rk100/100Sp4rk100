@@ -6,6 +6,7 @@
 - ⚡ Fun fact: the fun fact is that I have no idea for a fun fact😂😂😂
 - 💻 I work on a OS and an internet protocol for computerCraft.
 
+![lua](https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png)
 <!---
 100Sp4rk100/100Sp4rk100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
